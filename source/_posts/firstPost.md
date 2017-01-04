@@ -8,7 +8,7 @@ tags: 随笔
 
 ### 感  谢
 
-首先吴包子（比心）。
+首先感谢吴包子（比心）。
 
 其次，感谢朋友 [zyvas](https://github.com/zyvas) 在工作期间抽时间给予帮助。
 
@@ -17,8 +17,11 @@ tags: 随笔
 
 ### 参  考
 
+<!--more-->
+
 本博客的搭建参考文章：[HEXO搭建个人博客](http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
 
 主题克隆：[yilia](https://github.com/litten/hexo-theme-yilia)
+
 
 

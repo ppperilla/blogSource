@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 青时锦鲤
 subtitle:
 description:
-author: John Doe
+author: SOUTH
 language:
 timezone:
 
@@ -72,4 +72,27 @@ deploy:
   type: git
   repository: https://github.com/ppperilla/ppperilla.github.io.git
   branch: master
+
+
+#
+#jsonContent
+jsonContent:
+    meta: false
+    pages: false
+    posts:
+        title: true
+        date: true
+        path: true
+        text: true
+        raw: false
+        content: false
+        slug: false
+        updated: false
+        comments: false
+        link: false
+        permalink: false
+        excerpt: false
+        categories: false
+        tags: true
+
 

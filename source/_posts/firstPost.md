@@ -10,7 +10,7 @@ tags: 随笔
 
 首先吴包子（比心）。
 
-其次，感谢朋友[zyvas](https://github.com/zyvas)在工作期间抽时间给予帮助。
+其次，感谢朋友 [zyvas](https://github.com/zyvas) 在工作期间抽时间给予帮助。
 
 最后感谢网上众多大神分享的文章。
 

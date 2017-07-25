@@ -4,7 +4,9 @@ date: 2017-02-23 16:38:56
 tags: [学习笔记,hexo]
 ---
 
-<font style="color: rgb(172,168,167)">题外话：积累了很久的。一直没写，没push。太懒了TAT</font>
+---
+<font style="color: rgb(172,168,167)">题外话：积累了很久的。一直没写，没push。太懒了TAT
+注：转载请注明出处以及作者，违者必究。</font>
 ### 服务器
 
 hexo server  #启动服务预览 Hexo 会监视文件变动并自动更新

@@ -4,6 +4,9 @@ date: 2017-07-05 16:38:18
 tags: [学习笔记,git]
 ---
 
+---
+<font style="color: rgb(172,168,167)">注：转载请注明出处以及作者，违者必究。</font>
+
 ### 问题描述1
 
 <font style="color: rgb(172,168,167)">前很久的时候，上个月？？？给项目建了个仓库，方便我实验室电脑和自己电脑同步，然后遇到了一些问题（以前也这样过），所以mark下，提醒自己</font>
@@ -14,6 +17,7 @@ RSA key fingerprint is SHA256:jok3FH7q5LJ6qvE7iPNehBgXRw51ErE77S0Dn+Vg/Ik.
 Are you sure you want to continue connecting (yes/no)? </code>
 
 直接输入yes 就行
+
 <!--more-->
 [参考](https://coding.net/help/doc/git/ssh-key.html)
 
